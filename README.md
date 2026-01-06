@@ -1,4 +1,3 @@
-.
 
 📊 Meta Ad Performance Dashboard
 
